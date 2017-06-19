@@ -88,5 +88,5 @@ source $ZSH/oh-my-zsh.sh
  alias l='ls -lFh'     #size,show type,human readable
  alias whereami=display_info
  alias la='ls -lAFh'   #long list,show almost all,show type,human readable
-plugins=(git cloudapp node npm bower brew osx extract z)
+ plugins=(git cloudapp node npm bower brew osx extract z)
 
